@@ -1,0 +1,15 @@
+{
+  "name": "windows-wallpaper",
+  "version": "1.0.0",
+  "description": "A package to get or set wallpaper in windows OS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wallpaper",
+    "windows"
+  ],
+  "author": "Abhinandan <nmabhinandan@gmail.com>",
+  "license": "MIT"
+}
